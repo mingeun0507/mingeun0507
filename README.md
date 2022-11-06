@@ -1,6 +1,6 @@
 <div align="center">
   
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=F7D358&height=200&section=footer&text=Lee%20Ji%20%20Hyeon%20)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=F7D358&height=200&section=footer&text=Kim%20%20Mingeun%20)
   
 ### mingeuni🖐️
 
@@ -55,9 +55,9 @@
 
 ### Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejihyeon240&layout=compact)](https://github.com/leejihyeon240/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingeun0507&layout=compact)](https://github.com/mingeun0507/github-readme-stats)
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejihyeon240)](https://github.com/leejihyeon240/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingeun0507)](https://github.com/mingeun0507/github-readme-stats)
   
 
 </div>
