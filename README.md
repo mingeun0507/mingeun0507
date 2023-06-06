@@ -69,7 +69,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingeun0507&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingeun0507)](https://github.com/mingeun0507/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingeun0507&hide=stars,contribs&count_private=true&show_icons=true&&theme=dracular)](https://github.com/mingeun0507/github-readme-stats)
   
 
 </div>
